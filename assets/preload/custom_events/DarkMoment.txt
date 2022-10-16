@@ -1,0 +1,3 @@
+value 1: dark mode, anything = activates, nothing = deactivates
+
+value 2: duration

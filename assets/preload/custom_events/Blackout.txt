@@ -1,0 +1,3 @@
+value 1: How long it lasts
+
+value 2: true = the last one, will set BFs position correctly, anything else and it does nothing
