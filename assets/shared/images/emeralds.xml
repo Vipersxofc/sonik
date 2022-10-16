@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emeralds.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spin instance 10000" x="0" y="0" width="835" height="882"/>
+	<SubTexture name="Spin instance 10001" x="835" y="0" width="835" height="882"/>
+	<SubTexture name="Spin instance 10002" x="1670" y="0" width="835" height="882"/>
+	<SubTexture name="Spin instance 10003" x="2505" y="0" width="835" height="882"/>
+	<SubTexture name="Spin instance 10004" x="3340" y="0" width="835" height="882"/>
+
+	<SubTexture name="Spin instance 10005" x="0" y="882" width="835" height="882"/>
+	<SubTexture name="Spin instance 10006" x="835" y="882" width="835" height="882"/>
+	<SubTexture name="Spin instance 10007" x="1670" y="882" width="835" height="882"/>
+	<SubTexture name="Spin instance 10008" x="2505" y="882" width="835" height="882"/>
+	<SubTexture name="Spin instance 10009" x="3340" y="882" width="835" height="882"/>
+
+	<SubTexture name="Spin instance 10010" x="0" y="1764" width="835" height="882"/>
+	<SubTexture name="Spin instance 10011" x="835" y="1764" width="835" height="882"/>
+	<SubTexture name="Spin instance 10012" x="1670" y="1764" width="835" height="882"/>
+	<SubTexture name="Spin instance 10013" x="2505" y="1764" width="835" height="882"/>
+	<SubTexture name="Spin instance 10014" x="3340" y="1764" width="835" height="882"/>
+
+	<SubTexture name="Spin instance 10015" x="0" y="2646" width="835" height="882"/>
+	<SubTexture name="Spin instance 10016" x="835" y="2646" width="835" height="882"/>
+	<SubTexture name="Spin instance 10017" x="1670" y="2646" width="835" height="882"/>
+	<SubTexture name="Spin instance 10018" x="2505" y="2646" width="835" height="882"/>
+	<SubTexture name="Spin instance 10019" x="3340" y="2646" width="835" height="882"/>
+
+	<SubTexture name="Spin instance 10020" x="0" y="3528" width="835" height="882"/>
+	<SubTexture name="Spin instance 10021" x="835" y="3528" width="835" height="882"/>
+	<SubTexture name="Spin instance 10022" x="1670" y="3528" width="835" height="882"/>
+	<SubTexture name="Spin instance 10023" x="2505" y="3528" width="835" height="882"/>
+	<SubTexture name="Spin instance 10024" x="3340" y="3528" width="835" height="882"/>
+
+</TextureAtlas>

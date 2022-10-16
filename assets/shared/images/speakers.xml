@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speakers.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speeeks0000" x="0" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0001" x="514" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0002" x="1028" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0003" x="1542" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0004" x="2056" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0005" x="2570" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0006" x="3084" y="0" width="514" height="357"/>
+	<SubTexture name="speeeks0007" x="0" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0008" x="514" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0009" x="1028" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0010" x="1542" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0011" x="2056" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0012" x="2570" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0013" x="3084" y="357" width="514" height="357"/>
+	<SubTexture name="speeeks0014" x="0" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0015" x="514" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0016" x="1028" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0017" x="1542" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0018" x="2056" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0019" x="2570" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0020" x="3084" y="714" width="514" height="357"/>
+	<SubTexture name="speeeks0021" x="0" y="1071" width="514" height="357"/>
+	<SubTexture name="speeeks0022" x="514" y="1071" width="514" height="357"/>
+	<SubTexture name="speeeks0023" x="1028" y="1071" width="514" height="357"/>
+</TextureAtlas>
