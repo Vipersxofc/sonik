@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Checkpoint-Old", "sonic", [86, 233, 93]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"difficulties": "Hard",
+	"hideFreeplay": false
+}
