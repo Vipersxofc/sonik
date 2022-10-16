@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-82
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BFLEFTMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-66
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BFDOWNMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				33
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BFUPMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BFRIGHTMISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dead loop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				-18,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dead confirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-18,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "me when kys",
+			"indices": [],
+			"name": "BF dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OriginsBf-night",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		140,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
